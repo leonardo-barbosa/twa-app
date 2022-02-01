@@ -25,7 +25,7 @@ def twaManifest = [
     name: 'Smartrips', // The name shown on the Android Launcher.
     themeColor: '#133fa0', // The color used for the status bar.
     navigationColor: '#133fa0', // The color used for the navigation bar.
-    backgroundColor: '#ffffff', // The color used for the splash screen background.
+    backgroundColor: '#135ba0', // The color used for the splash screen background.
     enableNotifications: false, // Set to true to enable notification delegation.
     // Add shortcuts for your app here. Every shortcut must include the following fields:
     // - name: String that will show up in the shortcut.
